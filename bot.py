@@ -518,7 +518,7 @@ async def check(interaction: discord.Interaction):
 # ── Entrypoint ─────────────────────────────────────────────────────────────────
 def start_bot():
     # Điền trực tiếp Token của bạn vào giữa 2 dấu ngoặc kép
-    bot_token = "MTUwMTU3MjIxODk5ODQ5MzMyNQ.GdOBnZ.L1NTYXDNmS37_iJRfbHdfuUEOTZKfUvT-Y8GEc"
+    bot_token = "MMTUwMTU3MjIxODk5ODQ5MzMyNQ.Gs6S1V.dpiibkrhx42O4G05ckhBJXtDladu9n6Pu2vbAg"
 
     try:
         bot.run(bot_token)
